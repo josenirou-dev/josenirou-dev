@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola!
 
-<!--
-**josenirou-dev/josenirou-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy José Guanel, estudiante de 3er año de Ingeniería Civil en Informática en la Universidad de Los Lagos (Castro, Chiloé). Apasionado por el desarrollo de software y la creación de soluciones web eficientes.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🔭 Trabajando actualmente en **SincroCarga**, una plataforma web de matching logístico para optimizar fletes de retorno.
+- 💻 Desarrollando componentes e interfaces con React y diseñando esquemas de bases de datos.
+- 🤖 Integrando el uso eficiente de IA (Prompt Engineering) en mi flujo de trabajo para resolución de problemas.
+- 🎓 Colaborando como Ayudante Universitario en asignaturas de ciencias de la ingeniería.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, Python
+- **Frontend:** React, HTML5, CSS3
+- **Bases de Datos:** PostgreSQL
+- **Flujo de trabajo:** GitHub Desktop, Prompting avanzado
+
+### 📫 Cómo contactarme
+**Email:** jose.guanel61@gmail.com
